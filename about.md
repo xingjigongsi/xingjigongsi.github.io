@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a software development engineer, with more than ten years of R & D experience, specializing in the design of distributed systems and microservices architecture. My favorite languages are golang, php and so on.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](xingjigongsi@gmail.com)
